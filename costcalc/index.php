@@ -68,8 +68,9 @@ mysqli_close($conn);
             &copy; 2026 Faris Bazli <br>
                          Version 1.0 <br>
                       
-        <p>Contact me at: <a href="https://wa.me/601123995204">+6011-2399-5204</a></p> <a href="https://www.instagram.com/gaucheyxp/">Instagram</a></footer>
+        <p>Contact me at: <a href="https://wa.me/601123995204">+6011-2399-5204</a></p> <a href="https://www.instagram.com/gaucheyxd/">Instagram</a></footer>
 </center>
     
 </body>
+
 </html>
